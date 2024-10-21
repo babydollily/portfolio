@@ -8,6 +8,7 @@
 
 ## Work Experience
 **Tech Officer (Maths&Data) @ Office of Liquor and Gaming Regulation Queensland (September 2024 - Present_)**
+
 **Data Scientist Intern @ Macquarie Bank (December 2023 - Feburary 2024)**
 
 ## Projects

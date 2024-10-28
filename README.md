@@ -1,7 +1,7 @@
 # Hi this is Jie! 👋
 I'm a Data Scientist with a passion for machine learning and data visualization.
 
-- 🔭 I’m currently working on a predictive model for stock analysis.
+- 🔭 I’m currently working on a mathematics model for EGM(Electric Gaming Machine) analysis.
 - 🌱 I’m learning advanced techniques in NLP and graph theory.
 - 💬 Ask me about Python, SQL, and data science projects.
 - 📫 How to reach me: zhangjie1014@gmail.com

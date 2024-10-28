@@ -7,18 +7,17 @@ I'm a Data Scientist with a passion for machine learning and data visualization.
 - 📫 How to reach me: zhangjie1014@gmail.com
 
 ## Work Experience						       		
--         		
-- B.S., Mathematics | Xi'an Jiaotong University (_June 2005_)
-
+- Data Scientist | Office of Liquor and Gaming Regulation
+- Data Intern | Macquarie Bank 
+- Master of Data Science | The University of Queensland
   
+## Projects		
+
+
+
 ## Education						       		
 - M.S., Data Science	| The University of Queensland (_July_2024)	 			        		
 - B.S., Mathematics | Xi'an Jiaotong University (_June 2005_)
-
-#### Technical Skills: Python, SQL, R, AWS, ETL
-
-
-
 
 ## Technical Skills
 - **Languages**: Python, R, SQL

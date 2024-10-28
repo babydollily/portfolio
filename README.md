@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi This is Jie! 👋
 I'm a Data Scientist with a passion for machine learning and data visualization.
 
 - 🔭 I’m currently working on a predictive model for stock analysis.
